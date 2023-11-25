@@ -1,0 +1,75 @@
+<html>
+<title>Моди Minecraft</title>
+<body style="background:#0f0f0f; font-family:Comic Sans MS"> 
+<header>
+<p style="color:white; font-size:20px"><img src="https://i.pinimg.com/474x/a0/1e/b9/a01eb920157d569f0c214bc48ef1dec4.jpg" height="35" width="35">Rep</p>
+
+</header>
+<hr>
+<main> 
+<h1 style="text-align:center; color:white; font-size:40px">Minecraft mods<br>
+<small><u>Для чого вони потрібні?</u></small></h1>
+<p style="color:white; text-align:center">Вони потрібнi щоб удосконалити вашу гру в Mineckraft і щоб вони приносили вам більше задоволення від процесу гри.<br>
+На цьому сайті ви дізнаєтеся як їх встановлювати і користуватися ними.</p>
+<p style="text-align:center;">
+<img src="https://i.pinimg.com/474x/da/c0/c7/dac0c794aadd4bd799bb11c9bc38d333.jpg " height="370" >
+<img src="https://i.pinimg.com/474x/f2/83/40/f2834076b3f170ba4a531694f9d42273.jpg" height="370">
+<img src="https://i.pinimg.com/474x/7d/23/fe/7d23fef7b2bf80eea250a00cca2b264b.jpg" height="370">
+</p>
+<p style="color:white;text-align:center">В цій грі доступно багато улутшень ще є <mark>шейдери</mark> вони добавляють отмосфери грі і роблять її красивішою.</p>
+<p style="text-align:center">
+<img src="https://i.pinimg.com/474x/c5/19/18/c51918e215fe434960688ad3f072935a.jpg" height="370">  
+<img src="https://i.pinimg.com/474x/fc/16/4b/fc164b93e6ec6864407ef775b19961c9.jpg" height="370">
+<img src="https://i.pinimg.com/474x/fa/31/18/fa3118bef1db9e8e35468904f20cd245.jpg" height="370">
+</p>
+<p style="color:white;text-align:center">Ще є <mark>ресурс паки</mark> вони змінюють саму гру змінюючи обкладинку ігривих предметів</p>
+<p style="text-align:center">
+<img src="https://i.pinimg.com/474x/10/3a/5a/103a5ad7ff339a045ec6201065e5cc76.jpg" height="370">    
+<img src="https://i.pinimg.com/474x/bb/95/ce/bb95ce0b14c2d58d506b2e08a11b1a1f.jpg" height="370">
+<img src="https://i.pinimg.com/474x/d7/45/a5/d745a537a50a09192aad055891d138b4.jpg" height="370">\
+    </p>
+<p style="color:white;text-align:center"></p>
+<hr>
+<h1 style="color:white; text-align:center">Гляньте відео і відпочиньте<br>
+<video width="350" height="200" src="https://ru.pinterest.com/pin/320177854775082916/" controls onplay="" preload="auto" poster="https://i.pinimg.com/474x/ee/d0/ff/eed0ff08849d6aaedc21fb15eaeb5863.jpg"> 
+</video>
+</h1>
+<hr>
+<h3 id="fort" style=" color:white; text-align:center">Як їх установлювати?</h3>
+<p style="text-align:center; color:green">1. Встановлення Майнкрафт</p>
+<p style="color:white;text-align:center">Перед тим, як встановлювати сам мод, вам необхідно визначитися з версією гри. Для гри з модами намагайтеся не брати найновішу версію майнкрафт, досить часто мод на неї немає або вони знаходяться в розробці і не готові для гри, через що майнкрафт з такими модами може часто вилітати.<br>
+<br>
+Після того, як ви обрали версію, вам необхідно завантажити її у своєму лаунчері і запустити хоча б один раз.
+</p>
+<hr>
+<p style="color:green; text-align:center">2. Встановлення завантажувача (Minecraft Forge)</p>
+<p style="color:white; text-align:center">
+За замовчуванням майнкрафт не підтримує модифікації, тому є різні лоадери, які встановлюються поверх майнкрафт і дозволяють запускати гру вже разом з модами. Існує багато лоадерів (forge, fabric, rift, liteloader), але найпопулярніший на даний момент Forge, його ми і будемо встановлювати.<br>
+<br>
+У більшості неофіційних лаунчерів (наприклад, TL Launcher ) є вже готовий профіль Forge, можливо ви використовуєте саме такий лаунчер, щоб переконатися в цьому пошукайте профіль з назвою "Forge <версія гри>", якщо він є, то ви можете пропустити установку до наступного розділу.<br>
+<img src="https://minecraft-inside.ru/uploads/files/2020-01/20200104_193422.jpg"><br>
+І так, у вашому лаунчері не було профілю forge, для його встановлення вам потрібно встановити java , а потім перейти на цю сторінку і завантажити інсталяційний файл forge для вибраної вами версії гри. Сам процес установки forge досить простий, вам необхідно запустити файл інсталяції за допомогою java, натиснути "Ok" (install) і трохи почекати, після чого установник сповістить вас про успішну установку, натисніть "Ok" ще раз і на цьому установка закінчена.
+</p>
+<hr>
+<p style="color:green; text-align:center">
+3. Встановлення мода
+</p>
+<p style="color:white; text-align:center">
+Кожен мод створений для свого лоадера, тому вам не вдасться запустити на forge, мод створений для fabric і навпаки (бувають і винятки, але досить рідко).<br>
+<br>
+Вибравши мод, уважно ознайомтеся з інструкцією зі встановлення на сторінці, перевірте що мод створений для вашого лоадера і потрібної вам версії гри.
+</p>
+<hr>
+<p><a href="https://www.minecraft.net/ru-ru/download">Щоб установити гру натисніть сюди</a></p>
+<p><a href="https://www.curseforge.com/minecraft/search?page=38&pageSize=20&sortType=1&class=mc-mods&gameFlavorsIds=4">Щоб переглянути список модів нажміть сюди</a></p>
+
+</main>
+</body>
+<hr>
+<footer style="text-align:center;background:#232324">
+<p style="color:#a59edb;text-align:center">По поводу питаннь просимо звертатися за номеро телефону <br>
+    +380 98______8
+</p>
+<p style="color:#a59edb"><a href="https://www.minecraft.net/ru-ru">Додаткова інформація</a></p>
+</footer>
+</html>
